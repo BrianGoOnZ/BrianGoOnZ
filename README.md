@@ -15,10 +15,10 @@
 </div>
 
 <table width="100%">
-  <tr>
+<tr>
     <td width="50%" valign="top">
-      <h4>🌐 VacunApp MX</h4>
-      <p>Sitio web integral para la gestión, control y consulta de registros de vacunación en México, optimizando el seguimiento clínico ciudadano.</p>
+      <h4>🌐 <a href="https://github.com/ErnestoOrtegaDev/DigitizationOfTheVaccinationCard_WebApplication">DigitizationOfTheVaccinationCard_WebApplication</a></h4>
+      <p>Sitio web integral para la gestión, control y consulta de registros de la cartilla de vacunación digital en México, optimizando el seguimiento clínico ciudadano.</p>
     </td>
     <td width="50%" valign="top">
       <h4>✨ skinclinic-platform</h4>
