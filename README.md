@@ -15,14 +15,24 @@
 </div>
 
 <table width="100%">
-<tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/ErnestoOrtegaDev/DigitizationOfTheVaccinationCard_WebApplication">DigitizationOfTheVaccinationCard_WebApplication</a></h4>
-      <p>Sitio web integral para la gestión, control y consulta de registros de la cartilla de vacunación digital en México, optimizando el seguimiento clínico ciudadano.</p>
+      <h4>🌐 VacunApp MX</h4>
+      <p>Sitio web integral para la gestión, control y consulta de registros de vacunación en México, optimizando el seguimiento clínico ciudadano.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>✨ skinclinic-platform</h4>
+      <h4>✨ <a href="https://github.com/BrianGoOnZ/skinclinic-platform">skinclinic-platform</a></h4>
       <p>Plataforma de software a medida desarrollada para la administración integral de clínicas estéticas, belleza y tratamientos láser, gestionando sesiones y promociones de servicios.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎨 Vinyl & Tinting Catalog</h4>
+      <p>Catálogo web responsivo y propuesta de presupuesto digital interactivo diseñado especialmente para negocios locales de viniles y polarizados.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Forensics & Vulnerability Audits</h4>
+      <p>Colección de entornos de prueba, auditorías de red y despliegues experimentales basados en arquitecturas de seguridad en endpoints y marcos SIEM.</p>
     </td>
   </tr>
 </table>
