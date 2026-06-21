@@ -25,16 +25,6 @@
       <p>Plataforma de software a medida desarrollada para la administración integral de clínicas estéticas, belleza y tratamientos láser, gestionando sesiones y promociones de servicios.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 Vinyl & Tinting Catalog</h4>
-      <p>Catálogo web responsivo y propuesta de presupuesto digital interactivo diseñado especialmente para negocios locales de viniles y polarizados.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ Forensics & Vulnerability Audits</h4>
-      <p>Colección de entornos de prueba, auditorías de red y despliegues experimentales basados en arquitecturas de seguridad en endpoints y marcos SIEM.</p>
-    </td>
-  </tr>
 </table>
 
 <div align="center">
