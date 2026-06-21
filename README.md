@@ -19,17 +19,17 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 <a href="https://github.com/ErnestoOrtegaDev/DigitizationOfTheVaccinationCard_WebApplication">Digitization Of The Vaccination Card</a></h4>
-      <p>Sitio web de digitalización para la gestión, control y consulta de registros de vacunación, optimizando el seguimiento clínico ciudadano.</p>
+      <p>A comprehensive web platform designed for managing, controlling, and consulting digital vaccination records in Mexico, optimizing citizen clinical tracking.</p>
     </td>
     <td width="50%" valign="top">
       <h4>✨ <a href="https://github.com/BrianGoOnZ/skinclinic-platform">skinclinic-platform</a></h4>
-      <p>Plataforma de software a medida desarrollada para la administración integral de clínicas estéticas, belleza y tratamientos láser, gestionando sesiones y promociones de servicios.</p>
+      <p>A custom software platform built for the comprehensive management of aesthetic, beauty, and laser clinics, handling client sessions and service promotions.</p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <p>⚙️ <b>Team Work & Architecture:</b> Proyectos académicos y profesionales enfocados en metodologías de ingeniería de software y calidad.</p>
+  <p>⚙️ <b>Team Work & Architecture:</b> Academic and professional projects focused on software engineering methodologies and software quality assurance.</p>
 </div>
 
 ---
@@ -75,15 +75,15 @@
         <li>☁️ AWS Academy Cloud Foundations</li>
         <li>🛡️ Cybersecurity & Security Operations (IBM SkillsBuild)</li>
         <li>🍃 MongoDB & NoSQL Databases (MongoDB University)</li>
-        <li>🇬🇧 Idioma Inglés (Rumbo a Certificación B1)</li>
+        <li>🇬🇧 English Language (Targeting B1 Certification)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🎨 Beyond the Terminal</h4>
       <ul>
-        <li>📐 Prototipado UX/UI y diseño de interfaces modernas</li>
-        <li>👥 Liderazgo de equipos y gestión de requerimientos ágiles</li>
-        <li>🎮 Gaming casual y entusiasta de la innovación digital</li>
+        <li>📐 UX/UI Prototyping & modern interface design</li>
+        <li>👥 Team leadership and agile requirements management</li>
+        <li>🎮 Casual gaming and digital innovation enthusiast</li>
       </ul>
     </td>
   </tr>
@@ -106,6 +106,6 @@
 
 ---
 
-*"La lógica te llevará desde A hasta B. La imaginación te llevará a todas partes."*
+*"Logic will get you from A to B. Imagination will take you everywhere."*
 
 </div>
