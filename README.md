@@ -4,6 +4,7 @@
 
 ### 👤 Junior Full Stack Developer | IT Engineering Student
 
+[![Credly](https://img.shields.io/badge/CREDLY-PROFILE-eb7c39?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/brian-gonzalez-ramirez)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-gonzalez-ramirez-itid)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brian_goonz?igsh=ZHBnZG55bzFnaTN0)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian.gonzalez.itid@unipolidgo.edu.mx)
@@ -18,21 +19,11 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 <a href="https://github.com/ErnestoOrtegaDev/DigitizationOfTheVaccinationCard_WebApplication">Digitization Of The Vaccination Card</a></h4>
-      <p>Sitio web integral para la gestión, control y consulta de registros de la cartilla de vacunación digital en México, optimizando el seguimiento clínico ciudadano.</p>
+      <p>Sitio web de digitalización para la gestión, control y consulta de registros de vacunación, optimizando el seguimiento clínico ciudadano.</p>
     </td>
     <td width="50%" valign="top">
       <h4>✨ <a href="https://github.com/BrianGoOnZ/skinclinic-platform">skinclinic-platform</a></h4>
       <p>Plataforma de software a medida desarrollada para la administración integral de clínicas estéticas, belleza y tratamientos láser, gestionando sesiones y promociones de servicios.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 Vinyl & Tinting Catalog</h4>
-      <p>Catálogo web responsivo y propuesta de presupuesto digital interactivo diseñado especialmente para negocios locales de viniles y polarizados.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ Forensics & Vulnerability Audits</h4>
-      <p>Colección de entornos de prueba, auditorías de red y despliegues experimentales basados en arquitecturas de seguridad en endpoints y marcos SIEM.</p>
     </td>
   </tr>
 </table>
@@ -51,7 +42,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SEQUELIZE-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
 </p>
@@ -65,6 +55,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+### Infrastructure & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
 ---
 
 </div>
@@ -74,10 +71,11 @@
     <td width="50%" valign="top">
       <h4>📚 Currently Learning</h4>
       <ul>
+        <li>🛠️ Oracle APEX Development</li>
+        <li>☁️ AWS Academy Cloud Foundations</li>
+        <li>🛡️ Cybersecurity & Security Operations (IBM SkillsBuild)</li>
+        <li>🍃 MongoDB & NoSQL Databases (MongoDB University)</li>
         <li>🇬🇧 Idioma Inglés (Rumbo a Certificación B1)</li>
-        <li>🛡️ Ciberseguridad (Frameworks SIEM y Endpoint Detection - EDR)</li>
-        <li>🔍 Informática Forense y Análisis de Vulnerabilidades</li>
-        <li>📈 Aseguramiento y Gestión de la Calidad de Software</li>
       </ul>
     </td>
     <td width="50%" valign="top">
