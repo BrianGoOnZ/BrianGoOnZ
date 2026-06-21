@@ -4,8 +4,8 @@
 
 ### 👤 Junior Full Stack Developer | IT Engineering Student
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_LINK_DE_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/TU_LINK_DE_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-gonzalez-ramirez-itid)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brian_goonz?igsh=ZHBnZG55bzFnaTN0)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian.gonzalez.itid@unipolidgo.edu.mx)
 
 ---
