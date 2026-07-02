@@ -75,12 +75,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianGoOnZ&show_icons=true&theme=rose_pine&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGoOnZ&layout=compact&theme=rose_pine&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianGoOnZ&show_icons=true&theme=rose_pine&hide_border=true&v=1" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGoOnZ&layout=compact&theme=rose_pine&hide_border=true&v=1" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianGoOnZ&theme=rose_pine&hide_border=true" width="99%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianGoOnZ&theme=rose_pine&hide_border=true&v=1" width="99%" alt="GitHub Streak" />
 </p>
 
 ---
