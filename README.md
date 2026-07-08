@@ -2,7 +2,7 @@
 ### Junior Full Stack Developer | IT Engineering Student
 
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/briangonzalezr/" target="_blank">
+  <a href="https://www.linkedin.com/in/briangonzalezr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.credly.com/users/brian-gonzalez-ramirez" target="_blank">
@@ -47,6 +47,15 @@ A custom software platform built for the comprehensive management of aesthetic, 
 * **Security:** Cybersecurity & Security Operations (IBM SkillsBuild)
 * **NoSQL:** MongoDB & NoSQL Databases (MongoDB University)
 * **Languages:** English (Targeting B1 Certification)
+
+---
+
+## GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianGoOnZ&show_icons=true&theme=rose_pine&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGoOnZ&layout=compact&theme=rose_pine&hide_border=true" width="48%" alt="Top Languages" />
+</p>
 
 ---
 
