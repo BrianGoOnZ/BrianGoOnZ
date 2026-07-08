@@ -1,5 +1,6 @@
-# Hi, I'm Brian Gonzalez 
-### Junior Full Stack Developer | IT Engineering Student
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:8e44ad&height=200&section=header&text=Brian%20Gonzalez&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Full%20Stack%20Developer%20%7C%20IT%20Engineering%20Student&descAlignY=55&descSize=18" alt="header banner"/>
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/briangonzalezr/" target="_blank">
@@ -11,6 +12,7 @@
   <a href="mailto:brian.gonzalez.itid@unipolidgo.edu.mx">
     <img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=flat-square&logo=briefcase&logoColor=white" alt="Open to Work" />
 </p>
 
 ---
@@ -40,21 +42,34 @@ A custom software platform built for the comprehensive management of aesthetic, 
 
 ---
 
-## Continuous Learning
+## Currently
+* Building new features for Skinclinic Platform
+* Deepening my knowledge in Docker and AWS Cloud
 
+---
+
+## Continuous Learning
 * **Enterprise Dev:** Oracle APEX Development
 * **Cloud:** AWS Academy Cloud Foundations
 * **Security:** Cybersecurity & Security Operations (IBM SkillsBuild)
 * **NoSQL:** MongoDB & NoSQL Databases (MongoDB University)
-* **Languages:** English (Targeting B1 Certification)
+* **Languages:** English (Basic)
 
 ---
 
 ## GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianGoOnZ&show_icons=true&theme=rose_pine&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGoOnZ&layout=compact&theme=rose_pine&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianGoOnZ&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGoOnZ&layout=compact&theme=rose_pine&hide_border=true&cache_seconds=1800" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianGoOnZ&theme=rose_pine&hide_border=true" width="60%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BrianGoOnZ&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -62,3 +77,5 @@ A custom software platform built for the comprehensive management of aesthetic, 
 <p align="center">
   <i>"Logic will get you from A to B. Imagination will take you everywhere."</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:0077B5&height=100&section=footer" alt="footer banner"/>
