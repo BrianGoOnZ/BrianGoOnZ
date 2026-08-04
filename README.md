@@ -19,6 +19,12 @@
 
 ## Featured Projects
 
+### [Taller de Motocicletas y Refaccionaria](https://github.com/BrianGoOnZ/taller-motos)
+A full-stack internal management platform designed for motorcycle workshops and spare part inventory tracking, featuring cache-accelerated queries and transactional movement logging.
+* **Backend:** Node.js, Express.js, Redis, Swagger API Docs
+* **Frontend:** React, Vite, Tailwind CSS
+* **Database & Infra:** MySQL, Sequelize ORM, Docker Compose
+
 ### [Digitization Of The Vaccination Card](https://github.com/ErnestoOrtegaDev/DigitizationOfTheVaccinationCard_WebApplication)
 A comprehensive web platform designed for managing, controlling, and consulting digital vaccination records in Mexico, optimizing citizen clinical tracking.
 * **Backend:** Node.js, Express.js
@@ -35,15 +41,15 @@ A custom software platform built for the comprehensive management of aesthetic, 
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Backend & DB** | `Node.js` `Express` `MySQL` `Sequelize ORM` `Java` `Python` `PHP` |
+| **Backend & DB** | `Node.js` `Express` `MySQL` `Redis` `Sequelize ORM` `Java` `Python` `PHP` |
 | **Frontend & UI** | `React` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS` `Figma` |
-| **Tools & Infra** | `Git` `GitHub` `Docker` `Postman` `Linux Terminal` |
+| **Tools & Infra** | `Git` `GitHub` `Docker` `Docker Compose` `Postman` `Linux Terminal` |
 | **Methodologies**| `Agile` `Scrum` `Kanban` `Trello` |
 
 ---
 
 ## Currently
-* Building new features for Skinclinic Platform
+* Adding service order management features to Taller de Motos
 * Deepening my knowledge in Docker and AWS Cloud
 
 ---
