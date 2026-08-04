@@ -57,8 +57,10 @@ Software a medida para la gestión integral de clínicas estéticas, de belleza 
 ---
 
 ### Actualmente
-* Desarrollando el módulo de órdenes de servicio para el proyecto **Taller de Motos**
-* Profundizando conocimientos en contenedores con Docker y la nube de AWS
+* 🚀 **Skinclinic Platform:** Mantenimiento y seguimiento tras su despliegue en producción.
+* 🛠️ **Taller de Motos:** Desarrollo completo del sistema (órdenes de servicio, inventario y recepciones).
+* 📄 **VacunApp:** Elaboración de la documentación técnica e institucional del proyecto.
+* ☁️ **Aprendizaje:** Profundizando en orquestación con Docker y servicios Cloud de AWS.
 
 ---
 
@@ -67,7 +69,7 @@ Software a medida para la gestión integral de clínicas estéticas, de belleza 
 * **Nube:** AWS Academy Cloud Foundations
 * **Seguridad:** Cybersecurity & Security Operations (IBM SkillsBuild)
 * **NoSQL:** MongoDB & NoSQL Databases (MongoDB University)
-* **Idiomas:** Inglés (B1 / Intermedio)
+* **Idiomas:** Inglés (Básico)
 
 ---
 
@@ -105,8 +107,10 @@ A custom software platform built for the comprehensive management of aesthetic, 
 ---
 
 ### Currently
-* Adding service order management features to Taller de Motos
-* Deepening my knowledge in Docker and AWS Cloud
+* 🚀 **Skinclinic Platform:** Maintenance and monitoring following its production deployment.
+* 🛠️ **Taller de Motos:** Full-stack development of the core application (service orders, inventory, and receptions).
+* 📄 **VacunApp:** Writing technical and project documentation for the digital vaccination card platform.
+* ☁️ **Learning:** Deepening knowledge in Docker container orchestration and AWS Cloud infrastructure.
 
 ---
 
@@ -115,7 +119,7 @@ A custom software platform built for the comprehensive management of aesthetic, 
 * **Cloud:** AWS Academy Cloud Foundations
 * **Security:** Cybersecurity & Security Operations (IBM SkillsBuild)
 * **NoSQL:** MongoDB & NoSQL Databases (MongoDB University)
-* **Languages:** English (B1 / Intermediate)
+* **Languages:** English (Basic)
 
 ---
 
