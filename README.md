@@ -4,8 +4,8 @@
 
 <p align="center">
   🌐 <b>Idiomas / Languages:</b> 
-  <a href="#-versión-en-español">🇲🇽 Español</a> | 
-  <a href="#-english-version">🇺🇸 English</a>
+  <a href="#es">🇲🇽 Español</a> | 
+  <a href="#en">🇺🇸 English</a>
 </p>
 
 <p align="left">
@@ -23,8 +23,7 @@
 
 ---
 
-<a name="-versión-en-español"></a>
-## 🇲🇽 Versión en Español
+<h2 id="es">🇲🇽 Versión en Español</h2>
 
 ### Proyectos Destacados
 
@@ -72,8 +71,7 @@ Software a medida para la gestión integral de clínicas estéticas, de belleza 
 
 ---
 
-<a name="-english-version"></a>
-## 🇺🇸 English Version
+<h2 id="en">🇺🇸 English Version</h2>
 
 ### Featured Projects
 
